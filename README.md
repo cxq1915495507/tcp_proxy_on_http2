@@ -2,8 +2,9 @@
 
 
 usage  
- $ cargo build  
- $ ./target/debug/tcp_proxy_on_h2  
+ $ cargo run server 
+ $ cargo run client
+ $ ssh xxx@localhost -p 2022
 
 It is written for rust learning.
 

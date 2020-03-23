@@ -1,0 +1,15 @@
+[package]
+name = "tcp_proxy_on_h2"
+version = "0.1.0"
+authors = ["cxq"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = {version = "0.2",features=["full"]}
+bytes = "0.5"
+tokio-util = "0.3"
+h2 = {version="0.2",features=["stream"]}
+futures = "0.3"
+http = "0.2"

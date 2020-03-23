@@ -8,4 +8,5 @@ usage
 
 It is written for rust learning.
 
-
+data flow  
+https://github.com/cxq1915495507/tcp_proxy_on_http2/blob/master/smux.PNG

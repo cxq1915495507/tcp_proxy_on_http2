@@ -1,7 +1,10 @@
 # tcp_proxy_on_http2
 
-$ cargo build \n
-$ ./target/debug/tcp_proxy_on_h2
 
-for rust learning
+usage  
+ $ cargo build  
+ $ ./target/debug/tcp_proxy_on_h2  
+
+It is written for rust learning.
+
 
